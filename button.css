@@ -1,0 +1,90 @@
+
+
+body {
+
+      background-color: #f2f2f2;
+
+      font-family: Arial, sans-serif;
+
+      background-image: url('bckgrnd.jpg');
+
+      text-align: center;
+
+      
+
+    }
+
+    h1 {
+
+      color: #333;
+
+      text-align: center;
+
+      font-weight: bold;
+
+      font-size: 60px;
+
+    }
+
+    p {
+
+      color: #666;
+
+      text-align: center;
+
+    }
+
+​
+
+    .image-button{
+
+                background-color: rgb(10, 102, 194);
+
+                color: white;
+
+                height: 36px;
+
+                width: 200px;
+
+                border-radius: 20px;
+
+                cursor: pointer;
+
+                margin-right: 8px;
+
+                border: none;
+
+                font-weight: bold;
+
+            }
+
+    .takephoto-button {
+
+                  display: block;
+
+                  margin: 0 auto;
+
+                  width: 100px;
+
+                  height: 100px;
+
+                  background-color: blue;
+
+                  border-radius: 100px;
+
+                  background-image: url('cameraicon.jpg');
+
+                  background-repeat: no-repeat;
+
+                  background-size: 100%;
+
+                  border: none;
+
+                  outline: none;
+
+                  cursor: pointer;
+
+                }
+
+​
+
